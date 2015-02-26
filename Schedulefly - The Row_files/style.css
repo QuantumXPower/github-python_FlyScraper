@@ -1,0 +1,829 @@
+#footer {    
+    position: absolute;  
+    top:105px;
+    right:50px;  
+    background-color:#ffffff;        		
+	color: #777777;	
+	align:center;	
+	font-weight: bold;			
+	text-align: center;		
+}
+.thinborder3 {
+
+  border:solid 1px #cccccc;
+  padding:1px;
+
+  } 
+
+
+a.noline {
+	color: #06C; 
+	FONT-SIZE: 11px;
+	FONT-FAMILY: verdana;
+	text-decoration: none;
+}
+.styled {	
+	border: 2px solid #CCCCCC;
+}
+.zFFFF00{
+ background-color:#FFFF00;
+}
+
+.zFAAFBE{
+ background-color:#FAAFBE;
+}
+
+.z9999ff{
+ background-color:#9999ff;
+}
+
+.zFF9900{
+ background-color:#FF9900;
+}
+.pink{	
+ background-color:#FF99CC;
+} 
+.red{	
+ background-color:#FF0033;
+} 
+.z33cc66{
+ background-color:#33cc66;
+}
+ 
+.zffffff{
+ background-color:#ffffff;
+}
+
+.notehighlight{
+	background-color: #3ff666;
+
+}
+
+/* CORE */
+.greybox{border:1px solid #b3b3b3;clear:left;font-size:0.95em;margin:0 0 18px;padding:4px 8px 12px 12px;}
+.thinborderfloat {
+  float:left;
+  border:solid 1px silver;
+  padding:5px;
+  margin-right:10px;
+  } 
+
+.thinborderfloat2 {
+
+  border:solid 1px silver;
+  padding:5px;
+  margin-right:10px;
+  } 
+.messagetitle {
+	font-family: verdana, sans-serif;	
+	color: Maroon;	
+	font-size: 18px;	
+}
+.messagebody
+{
+	font-family: verdana, sans-serif;	
+	color: #1f7f26;	
+	font-size: 14px;	
+}
+.messagebody2
+{
+	font-family: verdana, sans-serif;	
+	color: #1f7f26;	
+	font-size: 13px;	
+}
+input , select
+{
+FONT-SIZE: 12px;
+FONT-FAMILY: verdana;
+}
+.smalldropdown
+{
+	FONT-SIZE: 10px;
+	FONT-FAMILY: verdana;
+}
+color:#004663;
+}
+
+td 
+{
+	font-family: verdana, sans-serif;
+	font-size: 11px;	
+} 
+td.f 
+{
+	font-family: verdana, sans-serif;
+	font-size: 11px;	
+} 
+input.button {
+   font-family: 'Verdana', sans-serif;  
+    border-right:1px solid #5C5D61;
+    border-bottom:1px solid #5C5D61;
+    font-size: 10px;
+    color:#000000;
+    padding:2px 2px 2px 2px;
+    cursor:pointer;
+    font-weight:bold;
+    display:inline;
+}
+input.submit {
+  background:#EFA23D;
+  color:#fff;
+  font:bold 70% Verdana,Sans-serif;
+  border:1px solid #f00;
+  border-color:#EFA23D;
+}
+.clearhack { display: inline; } /*Clears Box Model Hack in IE5*/
+
+body {
+	font-family: verdana, sans-serif;	
+	color: #000000;
+	padding: 3em 20px 3em 20px;
+	margin: 0;	
+	font-size: 12px;
+	background-color: #ffffff;
+}
+.skedtitle 
+{
+	color: Maroon; 
+	FONT-SIZE: 16px;
+	FONT-FAMILY: verdana;
+	font-weight: bolder;
+}
+.daypartheaderwelcome 
+{
+	color: Navy; 
+	FONT-SIZE: 10px;
+	FONT-FAMILY: verdana;
+	font-weight: bold;
+}
+.daypartheader 
+{
+	color: Maroon; 
+	FONT-SIZE: 12px;
+	FONT-FAMILY: verdana;
+	font-weight: bold;
+}
+.highlight 
+{
+	background-color: #ffffcc;
+	FONT-FAMILY: verdana;	
+}
+.highlightsmall
+{
+	background-color: #ffffcc;
+	FONT-FAMILY: verdana;	
+	FONT-SIZE: 7px;
+}
+.schedulenamestaff 
+{
+	color: Blue; 
+	FONT-SIZE: 11px;
+	FONT-FAMILY: verdana;
+	font-weight: bold;
+}
+.schedulenamestaffnotposted 
+{
+	color: Black; 
+	FONT-SIZE: 11px;
+	FONT-FAMILY: verdana;
+	font-weight: bold;
+}
+.skedtitle2
+{
+	color: Maroon; 
+	FONT-SIZE: 14px;
+	FONT-FAMILY: verdana;
+	font-weight: bolder;
+}
+a {
+	color: #06C; 
+	FONT-SIZE: 11px;
+	FONT-FAMILY: verdana;
+}
+a:hover { color: #333; }
+a:active { color: #000; }
+
+a.white {
+	color: #FFFFFF; 
+	FONT-SIZE: 11px;
+	FONT-FAMILY: verdana;
+}
+a.white:hover { color: #FFFFFF; }
+a.white:active { color: #FFFFFF; }
+
+a.header { color: #ffffff; }
+a.header:hover { color: #ffffff; }
+a.header:active { color: #ffffff; }
+
+a.small 
+{
+	font-size: 9px;     
+    vertical-align:top;
+    font-family: verdana, sans-serif;
+    color: Maroon;	
+}
+a.welcomelink 
+{
+	color: #06C; 
+	FONT-SIZE: 10px;
+	FONT-FAMILY: verdana;
+	text-decoration: none;		
+}
+a.welcomelink:hover { color: #06C; text-decoration: underline;}
+a.welcomelink:active { color: #06C; }
+
+a.available 
+{
+	color: #06C; 
+	FONT-SIZE: 10px;
+	FONT-FAMILY: verdana;
+	text-decoration: none;
+}
+
+a.available:hover { color: #06C; text-decoration: underline;}
+a.available:active { color: #06C; text-decoration: underline;}
+
+h1,h2 {
+	font-family: trebuchet ms;
+	font-weight: bold;
+	color: Maroon; 
+}
+
+h1 {
+	font-size: 180%;
+	padding-bottom: 1.6em;
+	margin: -10px;
+	position: absolute;
+	bottom: 0px;
+	left: 25px;
+}
+
+h1 a { text-decoration: none; color: #333; }
+h1 a:hover { border-bottom: 1px dotted #666; color: #000; }
+
+h2 {
+	font-size: 120%;
+	padding-bottom: 2px;
+	border-bottom: 1px solid #CCC;
+	margin: 0
+}
+.maroontitle 
+{
+	font-size: 140%;
+	padding-bottom: 2px;	
+	color: Maroon;
+	margin: 0
+}
+h3 {
+	font-size: 100%;
+	padding-bottom: 2px;
+	color: Blue;
+	border-bottom: 1px solid #CCC;
+	margin: 0
+}
+h4 {
+	font-size: 11px;
+	padding-bottom: 2px;
+	color: Maroon;
+	border-bottom: 1px solid #CCC;
+	margin: 0
+}
+h4.noline {
+	font-size: 120%;
+	padding-bottom: 2px;
+	font-weight:normal;
+	border-bottom: none;
+	margin: 0
+}
+/* END CORE */
+
+/* TABS */
+#main {
+	border: 1px solid #666;
+	clear: both;
+	/* width: 50em;  optional width to set a size to main body text area */
+}
+
+#contents {
+	padding: 1.5em;
+	background: #FFF;
+	min-height: 300px;
+}
+
+#header {
+	position: absolute;
+	top: 32px;
+	left: 0;
+	width: 100%;
+	height: 5em;
+	width: 80em; /* a width is required for Opera, older Mozilla browsers, and Konqueror browsers */
+}
+
+#header ul#primary {
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	bottom: -1px;
+	left: 20px;
+	width: 80em; /* a width is required for Opera, older Mozilla browsers, and Konqueror browsers */
+
+}
+
+#header ul#primary li  {
+	display: inline;
+	list-style: none;
+	font-family: verdana;
+}
+
+
+#header ul#primary a,#header ul#primary span,#header ul#primary a.current {
+	width: 9em;
+	display: block;
+	float: left;
+	padding: 4px 0; 
+	margin-top: 0px;
+	margin-right: 2px;
+	text-align: center;
+	font-family: verdana;	
+	text-decoration: none;
+	color: #333399;	
+}
+
+
+#header ul#primary span,#header ul#primary a.current,#header ul#primary a.current:hover {
+	border: 1px solid #666;
+	border-bottom: none;
+	background: #DEF;
+	padding-bottom: 6px;
+	margin-top: 0;
+	font-family: verdana;
+	
+}
+
+#header ul#primary a {
+	background: #78ABDE;	
+	border: 1px solid #666;
+	border-bottom: none;
+	color:#FFF;
+	
+}
+
+#header ul#primary a:hover, #header ul#primary a.selectedtab{
+	margin-top: 0;
+	border-color: #666;
+	font-weight: bold;
+	background: #ffffff;
+	padding-bottom: 5px;
+	color:#000000;
+}
+#header ul#primary a.networktab{
+	margin-top: 0;
+	border-color: #666;
+	background: #66cc33;
+	border-bottom: none;
+	color:#fff;
+}
+
+#header ul#secondary {
+	position: absolute;
+	margin: 0;
+	padding: 0;
+	bottom: -1.4em;
+	left: 1px;
+	width: 60em; /* a width is required for Opera, older Mozilla browsers, and Konqueror browsers */
+}
+
+#header div#bread {
+	padding: 0 5px;
+	left: 1px;
+	font-size: 1.0em;
+	width: 60em; /* a width is required for Opera, older Mozilla browsers, and Konqueror browsers */
+}
+
+
+#header ul#secondary li a,#header ul#secondary li span {
+	width: auto;
+	display: block;
+	float: left;
+	padding: 0 10px;
+	margin: 0;
+	text-align: center;
+	border: none;
+	border-left: 1px dotted #AAA;
+	background: none;
+
+}
+
+#header ul#secondary li a {
+	color: #06C;
+	text-decoration: underline;
+}
+
+#header ul#secondary li a:hover {
+	color: #333;
+	background: transparent;
+	padding: 0 10px;
+	border: none;
+	border-left: 1px dotted #AAA;
+}
+
+#header ul#secondary li a:active {
+	color: #000;
+	background: transparent;
+}
+
+#header ul#secondary li:first-child a,#header ul#secondary li:first-child span { border: none; }
+/* END TABS */
+
+/* CS STUFF */
+	table.tableBorder /* This is the outline round the main forum tables */
+	{
+		/*border: 1px #B2B2B2 solid;  */
+		/*border: 1px outset; */
+		background-color: #666666;		
+		margin-bottom: 8px;
+	}
+
+	.tableBorder th, .column, tr.column td /* td.column is the main heading row of the table, shows either the table title, or the column headings, such as 'Posts', 'Last Post' etc. Top row of all tables. */
+	{
+		font-weight: bold; 
+		font-size: 9px; 
+		background-color: #6798C7; 
+		COLOR: white;
+		vertical-align:top;
+
+	}
+	.tableBorder th2, .column2, tr.column2 td /* td.column is the main heading row of the table, shows either the table title, or the column headings, such as 'Posts', 'Last Post' etc. Top row of all tables. */
+	{
+		font-weight: bold; 
+		font-size: 9px; 
+		background-color: #666666; 
+		COLOR: #fff;
+		vertical-align:top;
+
+	}
+.tableBorder th2, .column4, tr.column4 td /* td.column is the main heading row of the table, shows either the table title, or the column headings, such as 'Posts', 'Last Post' etc. Top row of all tables. */
+	{
+		font-weight: bold; 
+		font-size: 9px; 
+		background-color:#9C9C9C; 
+		COLOR: white;
+		vertical-align:top;
+
+	}
+	.tableBorder th2, .column5, tr.column5 td /* td.column is the main heading row of the table, shows either the table title, or the column headings, such as 'Posts', 'Last Post' etc. Top row of all tables. */
+	{
+		font-weight: bold; 
+		font-size: 9px; 
+		background-color:#26892a; 
+		COLOR: white;
+		vertical-align:top;
+
+	}
+	.tableBorder th3, .column3, tr.column3 td /* td.column is the main heading row of the table, shows either the table title, or the column headings, such as 'Posts', 'Last Post' etc. Top row of all tables. */
+	{
+		font-weight: bold; 
+		font-size: 9px; 
+		background-color: #dddddd; 
+		COLOR: white;
+		vertical-align:top;
+
+	}
+.smaller 
+{		
+    font-size: 9px; 
+}
+td.selectedcolumn 
+{
+    font-weight: bold; 
+    font-size: 9px; 
+    background-color: #ffffcc; 
+    COLOR: #000000;
+    vertical-align:top;
+}
+.smallgray
+{
+    font-size: 9px;     
+    COLOR: dimgray;
+    font-family: verdana, sans-serif;
+}
+td.calendartext2
+{
+	 font-size: 10px;
+    vertical-align:top;
+    font-family: verdana, sans-serif;
+}
+td.boxtitle
+{
+    font-size: 11px;   
+    vertical-align:top;
+    font-family: verdana, sans-serif;
+}
+.boxtitle
+{
+    font-size: 11px;   
+    vertical-align:top;
+    font-family: verdana, sans-serif;
+
+}
+td.calendartext
+{
+    font-size: 10px;   
+    vertical-align:top;
+    font-family: verdana, sans-serif;
+}
+.calendartext
+{
+    font-size: 10px;   
+    vertical-align:top;
+    font-family: verdana, sans-serif;
+}
+td.smallcalendartext
+{
+    font-size: 10px;     
+    vertical-align:top;
+    font-family: verdana, sans-serif;
+}
+td.smallcalendartext2
+{
+    font-size: 10px;     
+    vertical-align:top;
+    font-family: verdana, sans-serif;
+}
+.smallcalendartext
+{
+    font-size: 10px;     
+    vertical-align:top;
+    font-family: verdana, sans-serif;
+}
+.text
+{
+    font-weight: normal;
+    font-size: 0.9em; 
+    COLOR: #000000;
+    vertical-align:top;
+}
+
+div.indent
+{
+    margin:0px 0px 0px 10px;
+}
+
+div.column 
+{
+	font-weight: bold;
+	font-size: 9px;
+    background-color: #78ABDE;     
+    background-repeat: repeat-x; 
+    COLOR: white;
+    padding:3px;
+    margin-top:8px;
+}
+
+
+
+tr.theBottomLine td
+{
+    font-size: 0.9em; 
+    background-color: #DDEEFF;
+    border-bottom: solid 1px white;
+}
+
+hr2 
+{
+	border-bottom: 1px dashed #cccccc;
+}
+
+#headertab
+{
+  text-align:center;
+  font-family: Verdana;
+  position: absolute;
+  center: 60mm;
+  
+  top: 0px;
+  font-size: 9px;
+  vertical-align: text-top;
+  vertical-align: top;
+}
+
+#logo
+{
+  text-align: left;
+  position: absolute;
+  right: 2mm;
+  padding: 0 10px;
+  top: 2px;
+  left: 10px;
+  font-size: 12px;
+  vertical-align: top;
+
+}
+#cal
+{
+  text-align:left;
+  position: absolute;
+  left: 2mm;
+  padding: 0 5px;
+  top: 2px;  
+}
+a.small 
+{
+	font-size: 9px;
+}
+#headertab ul
+{
+	margin: 10px 10px 10px 10px;
+}
+
+#headertab ul li
+{
+	display: inline;
+	list-style: none;
+	  vertical-align: top;
+	 
+}
+
+.ErrorPanel h3
+{
+    background: #FFF;
+    color: Red;
+	padding: 4px;
+	font-family: verdana;
+	font-size: 100%;
+		line-height: 130%;
+	margin-top: 0;
+}
+.alert 
+{
+	color: red;
+}
+.listbox flag 
+{
+	background-color: Gray;
+}
+table.tab {
+    line-height:normal;
+}
+.tab td {
+    text-align:center;
+    background-image: url(images/tableft.gif);
+    background-repeat: no-repeat;
+    background-position: left top;
+    margin:0;
+    padding:0 0 0 6px;
+    border-bottom:1px solid #A4A29E;
+}
+.tab a {
+    text-decoration:none;
+    color:#444;
+}
+.tab div {
+    background-image:url(images/tabright.gif);
+    background-repeat: no-repeat;
+    background-position: right top;
+    padding:3px 9px 5px 3px;
+}
+.tab a:hover {
+    text-decoration:underline;
+    color:#333;
+}
+.tab td.currentTab {
+    color:#FFFFFF;
+    font-weight:bold;
+    background-color: transparent;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+}
+.tab .currentTab div {
+    color:#FFFFFF;
+    padding:4px 9px 4px 3px;
+}
+.dayview 
+{
+	color:#000000;
+    font-weight:bold;
+    font-size: 16px;
+}
+#contentContainer{
+	float:left;
+	border:none;
+	background-color: #ffffff;
+	overflow:auto;
+	margin-right:5px;
+	padding:5px;
+	/* CSS HACK */
+	width: 100%;	/* IE 5.x */
+	width/* */:/**/100%;	/* Other browsers */
+	width: /**/100%;
+	
+	
+}
+#contentContainer2{
+	float:left;
+	border:none;
+	background-color: #ffffff;
+	overflow:auto;
+	margin-right:1px;
+	padding:5px;
+	/* CSS HACK */
+	width: 260px;	/* IE 5.x */
+	width/* */:/**/250px;	/* Other browsers */
+	width: /**/250px;
+	
+	/* CSS HACK */
+	height: 250px;	/* IE 5.x */
+	height/* */:/**/250px;	/* Other browsers */
+	height: /**/250px;
+}
+
+
+.trial{display:block}
+.trial *{
+  display:block;
+  height:1px;
+  overflow:hidden;
+  font-size:.01em;
+  background:#ffff9b}
+.trial1{
+  margin-left:3px;
+  margin-right:3px;
+  padding-left:1px;
+  padding-right:1px;
+  border-left:1px solid #ffffd4;
+  border-right:1px solid #ffffd4;
+  background:#ffffb4}
+.trial2{
+  margin-left:1px;
+  margin-right:1px;
+  padding-right:1px;
+  padding-left:1px;
+  border-left:1px solid #fffff5;
+  border-right:1px solid #fffff5;
+  background:#ffffae}
+.trial3{
+  margin-left:1px;
+  margin-right:1px;
+  border-left:1px solid #ffffae;
+  border-right:1px solid #ffffae;}
+.trial4{
+  border-left:1px solid #ffffd4;
+  border-right:1px solid #ffffd4}
+.trial5{
+  border-left:1px solid #ffffb4;
+  border-right:1px solid #ffffb4}
+.trialfg{
+  background:#ffff9b}
+
+
+.twitter{display:block}
+.twitter *{
+  display:block;
+  height:1px;
+  overflow:hidden;
+  font-size:.01em;
+  background:#EEEEEE}
+.twitter1{
+  margin-left:3px;
+  margin-right:3px;
+  padding-left:1px;
+  padding-right:1px;
+  border-left:1px solid #f7f76e;
+  border-right:1px solid #f7f76e;
+  background:#f2f2b6}
+.twitter2{
+  margin-left:1px;
+  margin-right:1px;
+  padding-right:1px;
+  padding-left:1px;
+  border-left:1px solid #fdfd25;
+  border-right:1px solid #fdfd25;
+  background:#f1f1c3}
+.twitter3{
+  margin-left:1px;
+  margin-right:1px;
+  border-left:1px solid #f1f1c3;
+  border-right:1px solid #f1f1c3;}
+.twitter4{
+  border-left:1px solid #f7f76e;
+  border-right:1px solid #f7f76e}
+.twitter5{
+  border-left:1px solid #f2f2b6;
+  border-right:1px solid #f2f2b6}
+.twitterfg{
+  background:#EEEEEE}
+
+
+.graph
+{
+	border-color: #000000;
+	border-style: solid;
+
+}
+
+td{
+	
+	
+
+}
+
